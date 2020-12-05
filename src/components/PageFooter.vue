@@ -8,7 +8,7 @@
         <div class="col-md-6 mt-md-0 mt-3">
           <!-- Content -->
           <h5 class="text-uppercase font-weight-bold">PRESENTACION</h5>
-          <p>
+          <p class="font-weight-bold">
             Este proyecto surge como práctica de la semana 2 del ciclo 3 de
             Desarrollo de Software
           </p>
@@ -21,8 +21,8 @@
         <div class="col-md-6 mb-md-0 mb-3">
           <!-- Content -->
           <h5 class="text-uppercase font-weight-bold">TECNOLOGÍAS USADAS</h5>
-          <p>Vue.js, JavaScript, HTML5, Git, GitHub, Vue Components</p>
-          <p>
+          <p class="font-weight-bold">Vue.js, JavaScript, HTML5, Git, GitHub, Vue Components</p>
+          <p class="font-weight-bold">
             <a href="https://github.com/juanchopistolas/workshop1"
               >¡Enlace al proyecto aquí!</a
             >
