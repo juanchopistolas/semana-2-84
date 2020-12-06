@@ -1,4 +1,6 @@
 <template>
+<div>
+     <page-header></page-header>
     <!-- carousel -->
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -42,10 +44,13 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
+</div>
 </template>
 
 <script>
+import PageHeader from './PageHeader.vue'
 export default {
+  components: { PageHeader },
     name: 'carousel',
 }
 </script>

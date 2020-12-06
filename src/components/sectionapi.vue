@@ -1,5 +1,5 @@
 <template>
-  <div class="col mt-5">
+  <div class="col mt-5" id= "news">
       <div class="row mt-md-5 mt-sm-5 mt-xs-5">
         <div class="col-lg-6 col-xs-12" v-for="(movie, index) of movies" :key="index">
           <div
