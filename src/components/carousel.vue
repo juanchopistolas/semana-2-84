@@ -27,7 +27,7 @@
             <div class="carousel-item">
                 <img class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" src="../assets/img/DesarrolloWeb.jpg"  alt="First slide"
                 preserveAspectRatio="xMidYMid slice" focusable="false" role="img">
-                <div class="carousel-caption d-none d-md-block" style="color:black">
+                <div class="carousel-caption d-none d-md-block">
                     <h4 class="font-weight-bold">Servicio Desarrollo WEB</h4>
                     <p class="font-weight-bold">Desarrollamos páginas web pensando en el perfil de tu marca y en el futuro de tu empresa.</p>
                 </div>
