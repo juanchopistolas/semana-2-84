@@ -17,7 +17,7 @@
         <a class="nav-link" href="#news">Seccion de Noticias</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Sobre Nosotros</a>
+        <a class="nav-link" href="#team">Sobre Nosotros</a>
       </li>
     </ul>
   </div>

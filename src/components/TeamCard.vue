@@ -1,9 +1,9 @@
 <template>
-    <div class="card text-white bg-dark" >
-        <div class="d-flex justify-content-center p-2">
-            <img :src="member.imagen" alt="Fotografia del Integrante">
+    <div class="card text-white bg-dark" id= "team" >
+        <div class="card-body m-3">
+        <div class="d-flex justify-content-center">
+            <img :src="member.imagen" width="250px" height="250px" alt="Fotografia del Integrante">
         </div>
-        <div class="card-body">
             <p class="card-text">{{member.Rol}}</p>            
             <h5 class="card-title">{{member.Nombre}}</h5>
             <p class="card-text">{{member.Descripcion}}</p>
