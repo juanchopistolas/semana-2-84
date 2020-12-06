@@ -42,7 +42,7 @@ export default {
           codigo: 1,
           Nombre: "Juan Esteban Martinez Arias",
           Descripcion:
-            "Tengo 20 años, me encuentro estudiante y me encanta estudiar, dormir y jugar video juegos",
+            "Tengo 20 años,  estudiante y me encanta estudiar, dormir y jugar video juegos.",
           Rol: "Developer team",
           imagen : "https://github.com/juanchopistolas/semana-2-84/blob/master/src/assets/img/juane.jpg?raw=true",
         },
@@ -50,7 +50,7 @@ export default {
           codigo: 2,
           Nombre: "Karina Osorio Restrepo",
           Descripcion:
-            "Tengo 22 años, me encuentro estudiante y me gusta dormir, comer y pasear",
+            "Tengo 22 años, estudiante y en mi tiempo libre  me gusta dormir, comer y pasear.",
           Rol: "Developer team",
           imagen: "https://github.com/juanchopistolas/semana-2-84/blob/master/src/assets/img/karina.jpg?raw=true",
         },      
@@ -58,7 +58,7 @@ export default {
           codigo: 3,
           Nombre: "Carlos Javier Chavarro Parra",
           Descripcion:
-            "Tengo 30 años, me encuentro trabajando actualmente y en mi tiempo libro me dedico al  ciclismo",
+            "Tengo 30 años, me encuentro trabajando actualmente y en mi tiempo libro me dedico al  ciclismo.",
           Rol: "Developer team",
           imagen : "https://github.com/juanchopistolas/semana-2-84/blob/master/src/assets/img/carlos.jpg?raw=true",
         },
@@ -66,7 +66,7 @@ export default {
           codigo: 4,
           Nombre: "Cristhian Andrés García Tabares",
           Descripcion:
-            "Tengo 21 años, actualmente estudio y me fascina programar",
+            "Tengo 21 años, actualmente soy estudiante y en mi tiempo libre me fascina programar.",
           Rol: "Developer team",
           imagen : "https://github.com/juanchopistolas/semana-2-84/blob/master/src/assets/img/cristhian.jpg?raw=true",
         },
@@ -74,7 +74,7 @@ export default {
           codigo: 5,
           Nombre: "Andres Felipe Guerrero Guio",
           Descripcion:
-            "Tengo 23 años, me encuentro estudiante y en  mi tiempo libre hago ejercicio",
+            "Tengo 23 años, estudiante y mi pasatiempo favorito es jugar futsal y practicar ciclismo.",
           Rol: "Scrum Master",
           imagen : "https://github.com/juanchopistolas/semana-2-84/blob/master/src/assets/img/andres.jpg?raw=true",
         },

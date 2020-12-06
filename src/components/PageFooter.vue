@@ -8,7 +8,8 @@
         <div class="col-md-6 mt-md-0 mt-3">
           <!-- Content -->
           <h5 class="text-uppercase font-weight-bold">PRESENTACION</h5>
-          <p class="font-weight-bold">
+          <hr>
+          <p class="font-weight-bold text-light">
             Este proyecto surge como práctica de la semana 2 del ciclo 3 de
             Desarrollo de Software
           </p>
@@ -21,11 +22,10 @@
         <div class="col-md-6 mb-md-0 mb-3">
           <!-- Content -->
           <h5 class="text-uppercase font-weight-bold">TECNOLOGÍAS USADAS</h5>
-          <p class="font-weight-bold">Vue.js, JavaScript, HTML5, Git, GitHub, Vue Components</p>
+          <hr>
+          <p class="text-light font-weight-bold">Vue.js, JavaScript, HTML5, Git, GitHub, Vue Components</p>
           <p class="font-weight-bold">
-            <a href="https://github.com/juanchopistolas/workshop1"
-              >¡Enlace al proyecto aquí!</a
-            >
+            <a href="https://github.com/juanchopistolas/workshop1" class="font-italic ">¡Enlace al proyecto aquí!</a>
           </p>
         </div>
         <!-- Grid column -->

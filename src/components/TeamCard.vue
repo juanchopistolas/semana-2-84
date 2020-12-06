@@ -2,7 +2,7 @@
     <div class="card text-white bg-dark" id= "team" >
         <div class="card-body m-3">
         <div class="d-flex justify-content-center">
-            <img :src="member.imagen" width="250px" height="250px" alt="Fotografia del Integrante">
+            <img :src="member.imagen" width="160px" height="250px" alt="Fotografia del Integrante">
         </div>
             <p class="card-text">{{member.Rol}}</p>            
             <h5 class="card-title">{{member.Nombre}}</h5>
