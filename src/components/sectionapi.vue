@@ -18,7 +18,7 @@
             </div>
           </div>
           <div class="d-flex container-fluid justify-content-end pb-2 mt-n2">
-            <a :href="movie.url" target="_black" class="btn btn-danger">Mas</a>
+            <a :href="movie.url" target="_black" class="btn btn-primary">Mas</a>
           </div>
           <hr color="#ccd1d1" size=3>
         </div>

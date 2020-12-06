@@ -4,21 +4,18 @@
     <carousel></carousel>
     <!-- seccion api -->
     <hr color="#ccd1d1" size=3>
-    <h5 class = "text-center text-danger font-weight-bold " >SECCIÓN DE NOTICIAS</h5>
+    <h5 class = "text-center text-primary font-weight-bold" >SECCIÓN DE NOTICIAS</h5>
     <hr color="#ccd1d1" size=3>
     <sectionapi></sectionapi>
     <!-- fin seccion api -->
-    <page-footer></page-footer>
-    
-    
-    <page-footer></page-footer>
   <div class="container-fluid">
   <div class="row justify-content-center mb-5">
     <div class="col mt-5" v-for="(item, index) of member" :key="index">
       <team-card v-bind:member="item">
       </team-card>
     </div>
-  </div>    
+  </div> 
+  <page-footer></page-footer>  
   </div>
   </div>
 </template>
@@ -47,7 +44,7 @@ export default {
           Descripcion:
             "Tengo 20 años, me encuentro estudiante y me encanta estudiar, dormir y jugar video juegos",
           Rol: "Developer team",
-          Imagen : "../assets/img/juane.jpg",
+          imagen : "../assets/img/juane.jpg",
         },
         {
           codigo: 2,
@@ -55,7 +52,7 @@ export default {
           Descripcion:
             "Tengo 22 años, me encuentro estudiante y me gusta dormir, comer y pasear",
           Rol: "Developer team",
-          Imagen: "../assets/img/karina.jpg",
+          imagen: "../assets/img/karina.jpg",
         },      
         {
           codigo: 3,
@@ -63,7 +60,7 @@ export default {
           Descripcion:
             "Tengo 30 años, me encuentro trabajando actualmente y en mi tiempo libro me dedico al  ciclismo",
           Rol: "Developer team",
-          Imagen : "../assets/img/carlos.jpg",
+          imagen : "../assets/img/carlos.jpg",
         },
         {
           codigo: 4,
@@ -71,7 +68,7 @@ export default {
           Descripcion:
             "Tengo 21 años, actualmente estudio y me fascina programar",
           Rol: "Developer team",
-          Imagen : "../assets/img/cristhian.jpg",
+          imagen : "../assets/img/cristhian.jpg",
         },
         {
           codigo: 5,
@@ -79,7 +76,7 @@ export default {
           Descripcion:
             "Tengo 23 años, me encuentro estudiante y en  mi tiempo libre hago ejercicio",
           Rol: "Scrum Master",
-          Imagen : "../assets/img/andres.jpg",
+          imagen : "../assets/img/andres.jpg",
         },
       ]
     }

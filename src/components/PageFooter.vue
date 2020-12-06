@@ -1,5 +1,5 @@
 <template>
-  <footer class="page-footer bg-secondary text-white pt-4">
+  <footer class="page-footer text-black pt-4" style="background-color: #C2BFBF;">
     <!-- Footer Text -->
     <div class="container-fluid text-center text-md-left">
       <!-- Grid row -->
@@ -35,8 +35,8 @@
     <!-- Footer Text -->
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-1 bg-dark">
-      © 2020 Copyright: DAD
+    <div class="footer-copyright text-center py-1 bg-primary">
+      © 2020 Copyright: Equipo 84
     </div>
     <!-- Copyright -->
   </footer>
